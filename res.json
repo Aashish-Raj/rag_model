@@ -1,0 +1,75 @@
+{
+    "quiz_questions": {
+        "mcq": [
+            {
+                "question": "What is the result of rounding 456.0374 to the nearest hundred?",
+                "options": [
+                    "400",
+                    "500",
+                    "450",
+                    "460"
+                ],
+                "answer": "500",
+                "explanation": "When rounding to the nearest hundred, you look at the tens place (5 in this case), which rounds up to 500."
+            },
+            {
+                "question": "Which of the following is the correct order of the numbers from smallest to largest: 0.3, 3.1, 1.3, 2?",
+                "options": [
+                    "0.3, 1.3, 2, 3.1",
+                    "3.1, 2, 1.3, 0.3",
+                    "1.3, 0.3, 2, 3.1",
+                    "2, 1.3, 0.3, 3.1"
+                ],
+                "answer": "0.3, 1.3, 2, 3.1",
+                "explanation": "The numbers in ascending order are 0.3, 1.3, 2, and 3.1."
+            },
+            {
+                "question": "What is the value of 5.07 compared to 5.7?",
+                "options": [
+                    "5.07 is greater than 5.7",
+                    "5.07 is less than 5.7",
+                    "5.07 is equal to 5.7",
+                    "None of the above"
+                ],
+                "answer": "5.07 is less than 5.7",
+                "explanation": "5.07 is smaller than 5.7 because it has a smaller decimal value."
+            }
+        ],
+        "true_false": [
+            {
+                "question": "The number 2.1 rounds up to 2.2 when rounded to one decimal place.",
+                "answer": "true",
+                "explanation": "Since the next digit is 5, 2.1 rounds up to 2.2."
+            },
+            {
+                "question": "In the ternary system, the digit '3' is used.",
+                "answer": "false",
+                "explanation": "The ternary system only uses the digits 0, 1, and 2."
+            }
+        ],
+        "fill_ups": [
+            {
+                "question": "Round the number 72.4560374 to the nearest hundredth: _____",
+                "answer": "72.46",
+                "explanation": "The digit in the thousandths place is 6, which rounds the hundredths place up."
+            },
+            {
+                "question": "The result of 4 + (-2) is _____",
+                "answer": "2",
+                "explanation": "Adding a negative number is equivalent to subtraction."
+            }
+        ],
+        "short_answer": [
+            {
+                "question": "Explain how to round a number to two significant figures.",
+                "answer": "To round to two significant figures, identify the first two non-zero digits and round based on the value of the next digit.",
+                "explanation": "This method ensures that only the most significant digits are retained while adjusting the last digit based on the following digit."
+            },
+            {
+                "question": "What is the process to add a negative number?",
+                "answer": "To add a negative number, subtract its absolute value from the original number.",
+                "explanation": "This is because adding a negative number is the same as taking away that amount."
+            }
+        ]
+    }
+}
